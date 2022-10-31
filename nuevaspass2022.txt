@@ -197,3 +197,4 @@ Segunda ronda 592
 63 196
 87 231
 
+Hoy Estamos aprendiendo git 30-10-2022
