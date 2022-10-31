@@ -197,8 +197,3 @@ Segunda ronda 592
 63 196
 87 231
 
-I34
-
-SMPT puerto que tenia es el 25 yo le puse el 993
-
-2022_TN_CL_SCA_M1954S/DE_3CUA	
